@@ -9,5 +9,3 @@ when chess program has been started
 if board has been changed,
 when analyze has been changed accordingly
 
-Author: Dmitry Morozov
-Contacts: email: dm-chess@yandex.ru
