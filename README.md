@@ -18,8 +18,8 @@ www.superchat.at --- www.aby.spinchat.de --- www.chessclub.com dasher (Classic S
 
 and many more.
 
-Author: Dmitry Morozov
-Contacts: email: dm-chess@yandex.ru
+Author: Vladislav Kovalev
+Contacts: email: kovalev1997a11@gmail.com
 
 That is the source code of v 1.71. 
 That is the only source code available.
